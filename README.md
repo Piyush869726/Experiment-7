@@ -1,5 +1,11 @@
 # Experiment 7 - Role-Based Authorization (RBAC)
 
+Student Details
+Name: Piyush
+Course: B.Tech CSE
+Semester: 6th Semester
+Subject: Full Stack Development
+
 ## Objective
 Implement RBAC using Spring Boot and Spring Security.
 
