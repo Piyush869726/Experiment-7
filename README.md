@@ -1,7 +1,8 @@
 # Experiment 7 - Role-Based Authorization (RBAC)
 
 Student Details
-Name: Piyush
+
+Name: Piyush Kalyan
 Course: B.Tech CSE
 Semester: 6th Semester
 Subject: Full Stack Development
