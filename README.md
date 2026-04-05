@@ -2,9 +2,9 @@
 
 Student Details
 
-Name: Piyush Kalyan
-Course: B.Tech CSE
-Semester: 6th Semester
+Name: Piyush Kalyan,
+Course: B.Tech CSE,
+Semester: 6th Semester,
 Subject: Full Stack Development
 
 ## Objective
